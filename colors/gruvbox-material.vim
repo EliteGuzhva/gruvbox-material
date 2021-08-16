@@ -263,7 +263,7 @@ call gruvbox_material#highlight('Operator', s:palette.orange, s:palette.none)
 call gruvbox_material#highlight('Title', s:palette.blue, s:palette.none, 'bold')
 call gruvbox_material#highlight('Special', s:palette.yellow, s:palette.none)
 call gruvbox_material#highlight('SpecialChar', s:palette.yellow, s:palette.none)
-call gruvbox_material#highlight('Type', s:palette.yellow, s:palette.none)
+call gruvbox_material#highlight('Type', s:palette.blue, s:palette.none)
 if s:configuration.enable_bold
   call gruvbox_material#highlight('Function', s:palette.green, s:palette.none, 'bold')
 else
