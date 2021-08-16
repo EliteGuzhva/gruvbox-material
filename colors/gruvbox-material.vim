@@ -484,7 +484,7 @@ highlight! link TSTagDelimiter Green
 highlight! link TSText Green
 highlight! link TSStrike Grey
 highlight! link TSMath Blue
-highlight! link TSType Yellow
+highlight! link TSType Blue
 highlight! link TSTypeBuiltin YellowItalic
 highlight! link TSURI markdownUrl
 highlight! link TSVariable Fg
