@@ -934,8 +934,8 @@ highlight! link WhichKeyGroup Yellow
 highlight! link WhichKeyDesc Blue
 " }}}
 " unblevable/quick-scope {{{
-call gruvbox_material#highlight('QuickScopePrimary', s:palette.aqua, s:palette.none, 'underline')
-call gruvbox_material#highlight('QuickScopeSecondary', s:palette.blue, s:palette.none, 'underline')
+call gruvbox_material#highlight('QuickScopePrimary', s:palette.blue, s:palette.none, 'underline')
+call gruvbox_material#highlight('QuickScopeSecondary', s:palette.red, s:palette.none, 'underline')
 " }}}
 " APZelos/blamer.nvim {{{
 highlight! link Blamer Grey
