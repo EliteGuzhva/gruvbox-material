@@ -452,7 +452,7 @@ highlight! link TSConstMacro BlueItalic
 highlight! link TSConstant Fg
 highlight! link TSConstructor GreenBold
 highlight! link TSException Red
-highlight! link TSField Green
+highlight! link TSField Aqua
 highlight! link TSFloat Purple
 highlight! link TSFuncBuiltin GreenBold
 highlight! link TSFuncMacro GreenBold
@@ -463,7 +463,7 @@ highlight! link TSKeywordFunction Red
 highlight! link TSKeywordOperator Orange
 highlight! link TSLabel Orange
 highlight! link TSMethod GreenBold
-highlight! link TSNamespace YellowItalic
+highlight! link TSNamespace AquaItalic
 highlight! link TSNone Fg
 highlight! link TSNumber Purple
 highlight! link TSOperator Orange
@@ -474,7 +474,7 @@ highlight! link TSPunctBracket Fg
 highlight! link TSPunctDelimiter Grey
 highlight! link TSPunctSpecial Blue
 highlight! link TSRepeat Red
-highlight! link TSString Aqua
+highlight! link TSString Yellow
 highlight! link TSStringEscape Green
 highlight! link TSStringRegex Green
 highlight! link TSStructure BlueItalic
