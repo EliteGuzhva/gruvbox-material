@@ -770,8 +770,8 @@ let g:fzf_colors = {
       \ 'hl+':     ['fg', 'Aqua'],
       \ 'info':    ['fg', 'Aqua'],
       \ 'border':  ['fg', 'Grey'],
-      \ 'prompt':  ['fg', 'Orange'],
-      \ 'pointer': ['fg', 'Blue'],
+      \ 'prompt':  ['fg', 'Blue'],
+      \ 'pointer': ['fg', 'Orange'],
       \ 'marker':  ['fg', 'Yellow'],
       \ 'spinner': ['fg', 'Yellow'],
       \ 'header':  ['fg', 'Grey']
