@@ -459,7 +459,7 @@ highlight! link TSFuncMacro GreenBold
 highlight! link TSFunction GreenBold
 highlight! link TSInclude Red
 highlight! link TSKeyword Red
-highlight! link TSKeywordFunction Red
+highlight! link TSKeywordFunction Orange
 highlight! link TSKeywordOperator Orange
 highlight! link TSLabel Orange
 highlight! link TSMethod GreenBold
